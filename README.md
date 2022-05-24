@@ -2,6 +2,8 @@
 
 Testing Scroll Reveal (https://scrollrevealjs.org/) for another project
 
+Website is not responsive (desktop only)
+
 ## Built With: 
 
 1. HTML 
